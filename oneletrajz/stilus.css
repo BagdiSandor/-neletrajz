@@ -1,3 +1,8 @@
+body {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
 .adatok {
     list-style: none;
     display: inline-block;
@@ -10,12 +15,16 @@
     text-align: justify;
 }
 
+.en {
+    padding-left: 150px;
+}
+
 .sz h3 {
     padding-left: 40px;
 }
 
 .t h3 {
-    padding-left: 40px;
+    padding-left: 40px; 
 }
 
 .ev {
@@ -28,3 +37,8 @@
     display: inline-block;
 
 }
+
+.hobbi {
+    padding-left: 40px;
+}
+
