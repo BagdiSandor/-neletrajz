@@ -1,0 +1,30 @@
+.adatok {
+    list-style: none;
+    display: inline-block;
+    text-align: justify;
+}
+
+.adatok2 {
+    list-style: none;
+    display: inline-block;
+    text-align: justify;
+}
+
+.sz h3 {
+    padding-left: 40px;
+}
+
+.t h3 {
+    padding-left: 40px;
+}
+
+.ev {
+    list-style: none;
+    display: inline-block;
+}
+
+.iskolak {
+    list-style: none;
+    display: inline-block;
+
+}
