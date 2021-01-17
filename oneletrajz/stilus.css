@@ -1,6 +1,9 @@
 body {
     margin-top: 50px;
     margin-left: 50px;
+    margin-right: 400px ;
+    border-style: solid;
+    border-color: blue;
 }
 
 .adatok {
@@ -42,3 +45,21 @@ body {
     padding-left: 40px;
 }
 
+.lol {
+    text-align: justify;
+    padding-right: 40px;
+    border-style: none none none solid;
+    border-color: black;  
+}
+
+.hosok {
+    padding-top: 20px;
+}
+
+.jg {
+    padding-left: 40px;
+}
+
+.nexus {
+    padding-left: 40px;
+}
